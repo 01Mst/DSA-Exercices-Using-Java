@@ -9,9 +9,6 @@ Welcome to my Data Structures and Algorithms practice repository! This repositor
 1. [Introduction](#introduction)
 2. [Languages](#languages)
 3. [Content](#content)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
